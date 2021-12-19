@@ -13,7 +13,7 @@ for (var i = 0;i < n.length;i++)
 {
 	if(n[i].charAt(0)==='J'|| n[i].charAt(0)==='j')
 	{
-        console.log("Goodbye J"+ n[i])
+        console.log("Goodbye "+ n[i])
     }
 	else
 	{
